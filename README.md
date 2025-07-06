@@ -1,9 +1,3 @@
-# Hi There! 
+# Turbo-Ripper README
 
-👋
-
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+README file for Turbo-Ripper
